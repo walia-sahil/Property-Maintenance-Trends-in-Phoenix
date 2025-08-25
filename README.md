@@ -29,7 +29,9 @@ This project explores:
 
 ## 📂 Repository Structure
 ├── Analysis.ipynb          # Jupyter Notebook with full analysis
+
 ├── Poster.pdf              # Poster summarizing findings
+
 ├── README.md               # Project documentation
 
 ## 👩‍💻 Authors
