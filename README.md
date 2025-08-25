@@ -28,3 +28,22 @@ This project explores:
 - **Interpretation**: Identified systemic trends and outliers.  
 
 ## 📂 Repository Structure
+├── CIS591_Serpent_Eyes_Devs_Assignment_3-2.ipynb   # Jupyter Notebook with full analysis
+├── Blue Modern Coming Soon Poster.pdf              # Poster summarizing findings
+├── README.md                                       # Project documentation
+└── data/                                           # (Optional) Cleaned datasets
+
+## 👩‍💻 Authors
+- **Sahil Walia** (Arizona State University, MSBA Program)  
+- Miao Zheng  
+- Balbir Singh  
+- Nasim Ranjabri  
+- Alvin Lee  
+
+## 📈 Next Steps
+- Add predictive modeling (forecasting complaints by district)  
+- Build an interactive dashboard in Tableau/Power BI  
+- Explore correlations with census/socio-economic datasets  
+
+## 📜 License
+Not Licensed
