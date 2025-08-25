@@ -34,7 +34,8 @@ This project explores:
 └── data/                                           # (Optional) Cleaned datasets
 
 ## 👩‍💻 Authors
-- **Sahil Walia** (Arizona State University, MSBA Program)  
+(Arizona State University, MSBA Program)
+- **Sahil Walia**   
 - Miao Zheng  
 - Balbir Singh  
 - Nasim Ranjabri  
