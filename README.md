@@ -28,10 +28,9 @@ This project explores:
 - **Interpretation**: Identified systemic trends and outliers.  
 
 ## 📂 Repository Structure
-├── CIS591_Serpent_Eyes_Devs_Assignment_3-2.ipynb   # Jupyter Notebook with full analysis
-├── Blue Modern Coming Soon Poster.pdf              # Poster summarizing findings
-├── README.md                                       # Project documentation
-└── data/                                           # (Optional) Cleaned datasets
+├── Analysis.ipynb          # Jupyter Notebook with full analysis
+├── Poster.pdf              # Poster summarizing findings
+├── README.md               # Project documentation
 
 ## 👩‍💻 Authors
 (Arizona State University, MSBA Program)
